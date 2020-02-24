@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test">
+    <test name="login">
+        <classes>
+            <class name="com.suit.SuitConfig"/>
+
+            <class name="com.suit.Loginsucessful"/>
+        </classes>
+    </test>
+
+  <test name="investment">
+    <classes>
+        <class name="com.suit.SuitConfig"/>
+        <class name="com.suit.InvestmentSucessful"/>
+    </classes>
+</test>
+
+
+</suite>

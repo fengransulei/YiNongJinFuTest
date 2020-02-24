@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="teet">
+    <test name="ruanall">
+        <classes>
+            <class name="com.suit.GroupLogin"/>
+            <class name="com.suit.GroupForgetActivity"/>
+            <class name="com.suit.GroupInvestment"/>
+        </classes>
+    </test>
+</suite>
